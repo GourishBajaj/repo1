@@ -1,0 +1,10 @@
+ Volume in drive C has no label.
+ Volume Serial Number is E8B6-ED46
+
+ Directory of C:\Users\bajaj\OneDrive\Desktop\MyFiles
+
+11-04-2022  03.43 PM    <DIR>          .
+11-04-2022  03.43 PM    <DIR>          ..
+11-04-2022  03.43 PM                 0 test.txt
+               1 File(s)              0 bytes
+               2 Dir(s)  416,084,340,736 bytes free
